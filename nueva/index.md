@@ -3,4 +3,7 @@
 # integrantes
 # ===========
 - Jacobo Gelacio 
-- Thomas Alzate 
+- Thomas Alzate
+
+
+-Gracias por visitar 
